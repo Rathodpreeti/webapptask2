@@ -31,7 +31,7 @@ class App extends Component {
         <nav>
           <div className="navbar_container">
             <div className="navbar_items">
-              <h2>LetsGrowMore</h2>
+              <h2>Hellooo People!!</h2>
               <button onClick={this.updateState}>Get Users</button>
             </div>
           </div>
